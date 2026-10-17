@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33608003/README.md)
 ![Fortis Identity: identity, device and IT security, built by the engineer you talk to](banner.png)
 
 # Fortis Identity Solutions
